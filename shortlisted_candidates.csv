@@ -1,0 +1,105 @@
+job_role_applied,gender,nationality,education_level,university_tier,relevant_experience_years,skill_match_score,interview_score,Hiring Probability,Decision
+Data Scientist,Male,Indian,Bachelor,Tier 2,9.35,0.993,98.0,0.528094571166502,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,7.05,0.762,95.9,0.5478007313400551,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 1 (Top),14.28,1.0,84.1,0.8456018326941757,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),13.11,0.953,85.7,0.8047577699361358,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,24.43,1.0,91.7,0.7718507748918719,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),30.0,0.776,79.4,0.7440774218209019,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,19.05,0.954,98.0,0.6445320541686539,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,18.06,1.0,80.0,0.6915555698580665,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,7.88,0.959,85.4,0.6185348618337866,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,23.49,1.0,66.7,0.8197614001973057,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,11.11,0.769,85.7,0.6508777724044648,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,10.45,0.868,93.2,0.7348473039809498,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,12.19,0.993,91.1,0.7438772274374181,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 3,6.84,1.0,98.0,0.8094316943854032,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 2,6.82,0.908,98.0,0.6659481597826068,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,25.68,1.0,90.4,0.8986499393268429,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,8.56,0.962,92.2,0.6991915997911993,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),8.8,0.913,87.0,0.7429181274321689,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),6.86,0.791,98.0,0.6113874726000619,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,15.89,0.672,98.0,0.6555745319650187,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),7.35,1.0,98.0,0.7260097087657357,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,14.97,1.0,73.1,0.6518249442868069,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,19.78,1.0,92.3,0.6743934246733905,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,9.44,0.927,98.0,0.732363036064098,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,12.28,1.0,77.6,0.745340409824511,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),20.81,1.0,74.3,0.7528979126997395,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,14.91,1.0,85.8,0.7982533686695235,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,10.53,0.93,74.2,0.635379063693802,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,13.39,0.924,83.7,0.6032699330993274,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,20.43,0.744,91.1,0.6359562074956004,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,7.63,0.936,95.8,0.8008541896096064,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),10.44,1.0,83.9,0.756904272438616,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),9.23,0.977,88.3,0.7733373524293781,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,5.62,0.72,79.8,0.5544580818099996,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,14.75,1.0,91.5,0.6425641102492896,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),8.76,0.955,81.5,0.6036077894437317,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,5.03,0.876,98.0,0.6113352488982248,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,4.81,1.0,98.0,0.7614155507002414,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Unknown,11.65,1.0,97.7,0.5793224780095981,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,15.96,1.0,98.0,0.8935519489117095,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),8.49,1.0,98.0,0.7190719926133832,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,9.91,0.996,98.0,0.6286799289357414,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,25.47,1.0,98.0,0.9223856894813123,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,19.3,0.79,90.6,0.7087635557305315,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,5.43,0.98,80.9,0.560659448443208,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,10.32,0.745,94.5,0.7033388766599907,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,14.43,0.912,85.2,0.7734237746776899,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,9.02,0.809,93.5,0.7838306518554972,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,8.3,1.0,78.0,0.7943919709809114,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,17.74,0.961,86.4,0.6460941571532365,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,14.8,1.0,77.1,0.65403146647772,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,4.93,0.836,97.4,0.6606881713538091,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 1 (Top),25.4,1.0,96.9,0.8846791672670377,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,24.7,1.0,95.9,0.8929854195917006,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 2,9.08,0.975,92.7,0.8068932283561406,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,10.14,0.884,96.8,0.5320224979294182,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,12.77,0.78,85.2,0.6092597527757615,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),9.36,0.733,73.3,0.5991931395277184,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,5.87,0.801,84.6,0.5558334386333581,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,8.9,1.0,82.2,0.6332070872145182,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,6.93,1.0,88.2,0.7882700778215197,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 2,5.91,0.947,96.8,0.752791395618224,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 3,10.94,1.0,94.2,0.5435161856451636,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,9.44,1.0,73.2,0.7426426288594777,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,11.11,0.813,94.5,0.6531418245912372,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,12.76,0.987,90.5,0.57383470739894,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,5.13,0.832,85.8,0.5146275900328154,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 3,20.35,0.967,82.5,0.5219096846561441,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),17.51,1.0,75.5,0.8526381457977026,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,8.38,0.589,94.2,0.559973511995987,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),12.16,0.901,85.0,0.7619754060373549,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,11.83,0.8,84.2,0.6403718881052057,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,14.56,0.741,88.6,0.6022733004330896,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),5.91,0.952,95.6,0.683544776218132,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,8.42,0.99,91.7,0.7946007176004573,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),11.77,0.97,79.9,0.5471895528159213,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,5.48,1.0,81.7,0.5875858938629464,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,15.35,0.974,98.0,0.8585475490501373,✅ SHORTLIST
+Data Scientist,Male,Indian,PhD,Tier 1 (Top),15.75,0.724,86.0,0.7053890446008626,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,22.81,0.827,76.5,0.6004412712523625,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),9.48,0.904,78.4,0.6972820014576058,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,13.24,1.0,97.1,0.7390969788738374,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,14.93,1.0,84.7,0.5041004863995561,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,8.49,1.0,97.1,0.5434589335563716,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),10.91,1.0,72.7,0.5400310792588072,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,9.03,0.875,98.0,0.703002598998,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,8.51,0.731,98.0,0.6526466584013939,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,6.83,0.716,92.6,0.5309613784611021,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,11.65,0.922,84.0,0.6790979826849373,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,16.4,1.0,93.7,0.8922438157923342,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),19.73,1.0,94.0,0.7331540838641202,✅ SHORTLIST
+Data Scientist,Male,Indian,High School,Tier 2,18.25,1.0,86.5,0.6592541911615354,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),11.24,0.709,83.5,0.5403599303654885,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,15.86,1.0,74.2,0.7229542098668432,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),10.97,0.983,83.3,0.7112514419103788,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 1 (Top),20.81,0.912,83.7,0.6632730855340578,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,8.08,1.0,91.5,0.6335921359484448,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),7.24,0.618,83.9,0.5916532945509303,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 2,4.05,0.675,72.3,0.5116139337937049,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,30.0,1.0,79.1,0.8105701202860616,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 2,5.73,1.0,98.0,0.7573142483504247,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 3,30.0,1.0,89.0,0.8207147143608635,✅ SHORTLIST
+Data Scientist,Male,Indian,Master,Tier 1 (Top),8.23,0.695,98.0,0.7210930004263625,✅ SHORTLIST
+Data Scientist,Male,Indian,Bachelor,Tier 3,14.96,1.0,86.4,0.5201080640102239,✅ SHORTLIST

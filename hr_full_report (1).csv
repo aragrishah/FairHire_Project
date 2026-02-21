@@ -1,0 +1,636 @@
+job_role_applied,gender,nationality,education_level,university_tier,relevant_experience_years,skill_match_score,interview_score,Hiring Probability,Decision
+Data Scientist,Female,Indian,Bachelor,Tier 3,10.19,0.854,63.8,0.12963033416858027,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 1 (Top),17.0,1.0,76.3,0.7493939604169292,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,11.44,1.0,88.0,0.5991266361880521,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),3.25,0.718,80.5,0.10695195464364657,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),20.09,0.605,83.9,0.7318051373898132,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,11.05,0.854,96.2,0.29134167869866584,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,11.99,0.753,86.6,0.1959360334814274,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),3.44,0.929,83.8,0.18563546965866462,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,7.41,0.721,92.7,0.13797137488358963,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,6.07,0.432,44.3,0.07371217249730938,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,3.18,0.79,73.1,0.1462823272929055,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,17.87,0.777,79.2,0.2709064150850842,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,5.94,0.654,69.2,0.02503528582205873,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,12.74,0.741,96.1,0.3010518424152375,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,9.06,0.81,82.3,0.26074333306907893,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,2.0,0.425,60.1,0.04194682311091118,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,16.83,0.727,74.8,0.2509890283625253,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,13.44,0.902,92.5,0.4177872854844522,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),9.34,1.0,89.2,0.7949132806952234,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 1 (Top),9.98,0.852,92.2,0.6793343024877275,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 2,7.69,0.987,91.8,0.7088863425585611,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 3,2.87,0.907,91.3,0.2131809338470807,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),7.62,0.913,74.2,0.23095347287403645,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,7.62,0.631,71.6,0.05329409724121215,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,5.66,0.861,84.7,0.4361164547121538,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,5.86,1.0,86.3,0.3521528460791201,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,8.77,0.757,86.5,0.651531110119666,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,11.23,0.715,88.5,0.3468453024558962,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,12.44,0.749,98.0,0.2222354711546572,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,11.54,1.0,98.0,0.5519901422471274,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,27.85,1.0,79.7,0.7777299772172035,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),9.72,0.938,78.0,0.2355438251188979,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),6.66,0.595,84.6,0.12868615309547474,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,7.36,0.858,86.2,0.6661241734138664,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,3.79,0.43,87.9,0.10725803243795012,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 1 (Top),10.77,0.954,77.7,0.2499091731615119,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,5.57,0.965,91.0,0.14568544722817564,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,18.28,1.0,90.5,0.49829829528093617,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,9.93,0.691,71.6,0.0900102387180599,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,14.11,0.541,98.0,0.152027346731789,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,12.45,0.643,71.5,0.05608048210014749,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,10.31,0.591,73.8,0.07827152579148465,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.96,1.0,96.5,0.35909819932713505,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),7.54,0.846,98.0,0.4448090638055092,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,5.66,0.492,82.3,0.04935567532163459,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,8.71,1.0,96.8,0.5754904121070449,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 3,5.44,0.781,98.0,0.16131934736170844,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,21.23,0.872,87.5,0.668134424497875,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Unknown,20.32,0.851,79.0,0.6933456504718254,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 2,10.34,0.896,98.0,0.6492379478171975,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),12.29,1.0,60.7,0.3051524043079311,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,10.44,0.501,67.3,0.07902477831423928,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,17.08,1.0,76.2,0.3070443521796755,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,11.27,0.581,63.1,0.05582438341351117,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,12.31,0.964,66.8,0.27638974481495265,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,13.54,0.629,87.2,0.22934202999653877,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,2.0,0.46,73.3,0.06501504535752774,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,21.36,0.823,78.8,0.702021218672976,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 1 (Top),13.28,0.893,69.0,0.6248469700894513,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,9.19,0.736,84.5,0.2939215734783117,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,4.14,0.77,59.3,0.09495072528827714,❌ REJECT
+Data Scientist,Female,Asian (other),PhD,Tier 2,6.84,0.952,94.5,0.571397018369148,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,11.47,0.881,59.8,0.2054827626052783,❌ REJECT
+Data Scientist,Female,American,High School,Tier 3,24.83,1.0,95.4,0.6719805809548574,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,20.07,1.0,98.0,0.8105085230212089,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),12.07,1.0,90.6,0.7716696060012884,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,13.29,0.979,71.8,0.3053468083591405,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,11.97,0.981,95.9,0.6742881284699678,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.59,0.773,77.6,0.17172838557268594,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,8.34,0.601,98.0,0.15771610821512183,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,9.91,0.852,90.1,0.41005167440709217,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,5.98,0.795,73.8,0.22282101255059905,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,14.61,1.0,97.5,0.8265681757459157,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,6.75,0.999,98.0,0.5708965086836526,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,7.6,0.696,92.6,0.2510373819147402,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,10.19,1.0,97.6,0.5476480664962816,✅ SHORTLIST
+Data Scientist,Female,Other,Master,Tier 3,13.38,0.735,67.7,0.18298194074169014,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,7.37,0.789,88.2,0.39830529247204155,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,22.7,0.988,91.7,0.7068438642588972,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 3,11.48,0.585,90.8,0.16484334079634488,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,14.22,0.685,84.4,0.2628361558395877,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,6.25,1.0,61.8,0.22058968036361826,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,13.27,0.957,75.5,0.586777400079178,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 1 (Top),11.29,0.961,98.0,0.45829388217027905,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),18.54,1.0,88.5,0.7225245554187747,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,11.43,0.289,59.5,0.05762247294491346,❌ REJECT
+Data Scientist,Female,Asian (other),PhD,Unknown,8.32,1.0,79.6,0.32562446430478026,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 3,8.97,0.635,79.6,0.2177905702865002,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,14.63,1.0,98.0,0.7749788538000275,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 2,7.85,0.628,98.0,0.09307629511596652,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,10.68,0.917,68.7,0.17246257130001255,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,10.61,1.0,80.1,0.6719211378104754,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,5.01,0.474,91.8,0.05296572681455856,❌ REJECT
+Data Scientist,Female,European,High School,Tier 2,10.55,0.298,75.2,0.07040719127622264,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,11.3,0.704,90.0,0.4663665528923808,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Unknown,6.56,0.596,94.4,0.10514849656891659,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,4.81,0.711,68.7,0.06634326644723168,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,2.97,1.0,66.7,0.1485786359724599,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),2.0,0.849,73.6,0.13445285895952558,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,3.55,0.804,71.4,0.14633733122863574,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 1 (Top),14.58,0.949,78.7,0.3585483219303544,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,11.71,0.842,98.0,0.3219871124778759,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,9.45,0.584,93.7,0.1620538905043704,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),8.52,1.0,77.5,0.4919082520360935,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.72,0.806,82.1,0.2332568161034974,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,5.26,0.623,83.4,0.09888837393017248,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,16.79,0.845,98.0,0.38755594854136705,❌ REJECT
+Data Scientist,Female,European,Master,Unknown,5.86,0.945,78.2,0.2042128614733112,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,7.21,0.973,87.6,0.385911143319871,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,17.38,1.0,72.4,0.39099064978472187,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,5.26,0.813,63.8,0.1359947050433553,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,8.25,0.637,70.3,0.14460856899468705,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,16.81,0.405,73.7,0.11660818365404803,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,9.81,0.767,71.2,0.2722521699924145,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,5.73,0.684,72.0,0.11668988753002375,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,15.21,0.807,75.1,0.235191920924935,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,13.93,0.725,77.8,0.23357507480852238,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,12.0,1.0,83.0,0.7012342184752278,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),24.54,1.0,88.3,0.7930398552671776,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,13.07,0.925,92.9,0.716912976072432,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,12.36,0.782,86.1,0.3231488310942385,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),13.18,1.0,84.7,0.7895021651194335,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,5.11,1.0,67.7,0.1411674965322346,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Unknown,12.31,1.0,91.4,0.47285377619047336,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,9.1,1.0,98.0,0.5338194400648537,✅ SHORTLIST
+Data Scientist,Female,American,High School,Tier 2,2.67,0.463,81.9,0.07474188688973642,❌ REJECT
+Data Scientist,Female,African,Master,Tier 3,8.6,0.631,69.5,0.17637563669122547,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,2.0,0.327,68.5,0.05237125364716082,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,15.86,0.637,71.0,0.09012233540895986,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,16.3,1.0,76.6,0.4235555037841796,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,8.6,1.0,92.5,0.7090359377805053,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,14.43,1.0,81.7,0.7814428760929549,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),12.55,1.0,90.3,0.7795754493571257,✅ SHORTLIST
+Data Scientist,Female,American,PhD,Tier 2,11.85,0.989,68.5,0.2637529113209432,❌ REJECT
+Data Scientist,Female,American,Master,Tier 1 (Top),19.34,1.0,68.5,0.33538348056509143,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),5.29,0.914,86.8,0.2879234035990576,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,7.47,1.0,85.4,0.19195117710942278,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.99,0.682,94.2,0.16365940343228932,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,8.15,0.797,82.3,0.22015223523904345,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,3.06,0.844,86.3,0.1099895439344349,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,6.53,0.831,79.1,0.31004356272211736,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.35,0.803,76.7,0.17653975292887197,❌ REJECT
+Data Scientist,Female,African,PhD,Tier 2,15.47,1.0,98.0,0.7961436458152061,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,6.91,0.746,86.7,0.24408772980185564,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,7.54,1.0,83.4,0.5459571218307179,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 3,10.11,0.972,98.0,0.6051666384786386,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 2,11.25,0.957,82.3,0.30472376725515515,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Unknown,14.18,1.0,92.5,0.4317784563333826,❌ REJECT
+Data Scientist,Female,African,Master,Tier 2,16.05,0.979,77.3,0.3250014927084446,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 1 (Top),2.0,0.529,87.0,0.23092298446262852,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),20.33,0.803,63.5,0.1866770092476149,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,19.88,0.784,80.7,0.6042622280424662,✅ SHORTLIST
+Data Scientist,Female,Other,PhD,Tier 3,7.08,0.333,98.0,0.14999775850554897,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 2,8.96,0.905,98.0,0.5120518433610247,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,6.06,0.63,73.1,0.05379067813674873,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,12.19,1.0,91.5,0.7326090819794144,✅ SHORTLIST
+Data Scientist,Female,Other,Master,Tier 3,8.14,1.0,96.2,0.3658599115392371,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),10.1,1.0,60.7,0.3306293048621087,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,7.12,0.736,88.6,0.25743442689796814,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 1 (Top),15.9,1.0,98.0,0.7330859326597491,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,4.07,0.607,98.0,0.5186373174710007,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 3,7.99,0.595,80.7,0.030612941612270496,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,30.0,0.978,88.1,0.8460470695360724,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,10.03,0.896,66.5,0.1617910565316497,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 1 (Top),10.15,0.972,66.5,0.16182872040529822,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,11.83,1.0,64.5,0.642152036771913,✅ SHORTLIST
+Data Scientist,Female,African,Master,Tier 1 (Top),14.46,0.512,59.4,0.18542902596050365,❌ REJECT
+Data Scientist,Female,American,Bachelor,Unknown,19.17,0.79,80.3,0.2862364165095691,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 1 (Top),14.04,0.603,78.8,0.2712801279543916,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,13.41,1.0,67.7,0.5588021483312741,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,10.2,1.0,88.4,0.3498132430654255,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,4.37,0.973,82.3,0.2170841473517304,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 1 (Top),4.71,0.893,85.7,0.2678468032602924,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,6.95,0.435,81.2,0.0436103860943319,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,5.51,0.417,89.8,0.05951887240073999,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,6.76,0.896,95.2,0.547120645516037,✅ SHORTLIST
+Data Scientist,Female,American,PhD,Tier 3,15.8,0.928,84.3,0.36505810576104786,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,5.48,0.401,98.0,0.0836145529834292,❌ REJECT
+Data Scientist,Female,African,Master,Tier 3,15.21,1.0,60.1,0.16197832844223872,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,9.06,0.962,98.0,0.426841984154744,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 3,7.66,0.681,73.9,0.030812920319183066,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,5.57,1.0,58.7,0.6025922635472852,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,11.24,0.738,98.0,0.2377126040179658,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,6.04,1.0,76.5,0.19536577174633837,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,3.85,0.684,52.3,0.07593878584578842,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),15.63,0.531,77.5,0.5356141104380264,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 2,9.62,0.449,68.4,0.03631154406527411,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,5.25,0.906,76.2,0.3416907581840929,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.82,0.647,98.0,0.15045506891690386,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,10.14,0.881,83.4,0.2589479049892596,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,7.31,0.706,84.3,0.14018128818113998,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,8.01,0.989,57.9,0.24288552757559181,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,4.0,0.375,79.1,0.04303723400384974,❌ REJECT
+Data Scientist,Female,American,Master,Tier 1 (Top),16.94,1.0,98.0,0.8452379986896181,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,8.37,1.0,84.6,0.4424917157751657,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),2.34,0.479,83.2,0.13621334297016638,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),4.98,0.928,85.3,0.29403583816316425,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),10.16,0.713,76.5,0.1853058835229643,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,9.01,0.648,66.6,0.21792322428782496,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,9.11,0.736,64.2,0.48686240387136204,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),14.52,0.963,87.7,0.5474173366245849,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),13.46,1.0,74.9,0.38404251197891603,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,10.09,0.791,98.0,0.32798315796171174,❌ REJECT
+Data Scientist,Female,European,Master,Unknown,20.01,1.0,98.0,0.5019082737036944,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 3,21.01,1.0,64.8,0.2739362847097476,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 1 (Top),4.05,0.887,58.1,0.16983548991760652,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,5.14,0.957,86.9,0.24814740066617108,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,4.94,0.902,92.6,0.7025678474379394,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 2,3.22,0.94,96.4,0.68613011263249,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),12.01,0.965,85.0,0.7974387420498228,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 1 (Top),17.75,0.928,98.0,0.7926575984166523,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,11.34,0.914,98.0,0.34019469383458145,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),12.8,1.0,79.4,0.6450823052580532,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,5.43,0.732,81.0,0.11172102636357768,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,16.17,0.649,98.0,0.35232440851156227,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,10.43,0.78,74.6,0.2201251097371428,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Unknown,3.49,0.689,97.3,0.16655637822441316,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Unknown,6.57,0.876,95.0,0.25853896357803813,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,17.55,1.0,80.4,0.5188071677069794,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),8.84,0.769,96.0,0.6440403393241364,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),2.38,0.744,97.6,0.2677804865025466,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),7.3,0.869,70.4,0.5730827255908686,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,6.03,0.555,87.7,0.07573518001790168,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),5.84,0.582,88.2,0.099690151750424,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 1 (Top),5.63,0.735,80.1,0.10271022557230454,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 2,6.28,1.0,75.9,0.2246891028616104,❌ REJECT
+Data Scientist,Female,European,Bachelor,Unknown,7.83,1.0,98.0,0.31680569400954306,❌ REJECT
+Data Scientist,Female,Other,PhD,Unknown,13.24,0.807,98.0,0.6895162338587235,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,10.18,0.673,74.8,0.15789791655868587,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),10.27,0.919,79.7,0.21770267594443923,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,4.49,0.569,88.9,0.10103989940696771,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,10.95,0.898,86.4,0.2873776901928033,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,4.17,0.927,80.3,0.13789407227355843,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,4.52,0.476,98.0,0.5416766680415198,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),7.39,0.887,86.7,0.679911774713515,✅ SHORTLIST
+Data Scientist,Female,Other,Bachelor,Tier 2,7.15,1.0,87.2,0.4333918210951663,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,9.02,1.0,97.8,0.3454454864010501,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 3,8.89,0.698,76.1,0.15331524386051304,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,16.14,1.0,95.6,0.8274833449754608,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 3,2.0,0.527,70.2,0.031417796405766314,❌ REJECT
+Data Scientist,Female,American,High School,Tier 1 (Top),5.66,0.77,98.0,0.2875188118333453,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,23.71,1.0,94.7,0.8453565075224125,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,8.22,1.0,89.4,0.6977971923364679,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,13.71,0.811,98.0,0.7217276426810197,✅ SHORTLIST
+Data Scientist,Female,African,Master,Tier 1 (Top),10.8,0.542,75.1,0.19014237701840542,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,7.93,0.67,77.6,0.14223397310083125,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,10.78,0.667,95.2,0.46045295308126905,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,3.97,0.766,64.6,0.14051427142548562,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,7.72,0.97,98.0,0.34985640567417414,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,5.87,0.594,85.9,0.1319610436965579,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),6.83,0.839,94.9,0.4372104141341401,❌ REJECT
+Data Scientist,Female,Asian (other),PhD,Tier 2,6.3,0.579,80.5,0.1475137423952716,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,5.28,0.953,88.6,0.2792673035417909,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,27.37,1.0,95.4,0.8651953071472508,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,6.21,0.895,61.8,0.3730086122206493,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,13.27,1.0,63.6,0.21989110242006565,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.56,0.993,74.7,0.3308018745720983,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,3.64,0.451,89.3,0.07985903696463938,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,7.0,0.692,98.0,0.20019482991067505,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),7.01,1.0,97.0,0.7528200235798992,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.19,1.0,98.0,0.6866341500436874,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 2,2.3,0.787,73.3,0.1811543704701427,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,14.52,0.943,83.2,0.4528805582188808,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,14.01,1.0,75.7,0.36117842312053533,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,6.14,0.872,78.3,0.17022050617227738,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,3.05,0.772,65.8,0.16524095276796516,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,16.8,0.612,91.3,0.24680564952242418,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,2.0,1.0,98.0,0.3368329203497779,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,7.25,0.776,91.9,0.27248440752960734,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,13.44,1.0,95.2,0.7232312615625958,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,11.98,0.593,87.5,0.5777287798533122,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Unknown,10.13,0.465,56.9,0.10697708503480303,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,7.87,0.6,98.0,0.1465188584694793,❌ REJECT
+Data Scientist,Female,European,High School,Unknown,17.71,0.859,71.7,0.25227167067608813,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,24.76,1.0,82.2,0.5363831289530581,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,17.99,0.708,77.7,0.3472675430214509,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,8.68,1.0,76.1,0.25921939102669805,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,13.99,1.0,88.1,0.7779735603593817,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.24,1.0,77.6,0.2845359010582456,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,11.01,0.982,92.6,0.45107319979837884,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,2.96,0.338,43.4,0.08343784032098328,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,5.92,1.0,98.0,0.3203007833572734,❌ REJECT
+Data Scientist,Female,American,Bachelor,Unknown,4.92,1.0,97.6,0.3239861456354112,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,8.4,0.68,79.5,0.089218497196866,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,13.18,1.0,98.0,0.8119444953490187,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,6.96,0.542,80.5,0.04842100124593299,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,2.0,0.76,89.3,0.35243635839485293,❌ REJECT
+Data Scientist,Female,European,High School,Tier 3,3.11,0.59,98.0,0.15065186012992127,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),7.84,1.0,83.3,0.7210087391176857,✅ SHORTLIST
+Data Scientist,Female,European,PhD,Tier 2,13.62,0.701,79.3,0.3087747501543045,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,12.65,0.831,83.3,0.38311851368809463,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,10.37,0.446,74.4,0.04783030249688923,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,2.74,0.846,92.4,0.12910465540516197,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),7.55,0.981,61.1,0.25008619774575086,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,9.03,0.79,81.4,0.280334252413865,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,10.65,0.984,86.4,0.7472340116252033,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 2,2.0,0.83,74.6,0.08035907542847483,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 3,11.31,1.0,85.0,0.7737915334057296,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,19.57,0.968,82.9,0.41973286011510214,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,7.24,0.998,61.6,0.23387673362895275,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 2,4.57,1.0,87.9,0.6928792015062888,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,2.93,0.698,67.5,0.07389284294773155,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,8.0,0.79,86.7,0.6336108943477108,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,12.74,0.762,92.8,0.6962267844385649,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),4.85,0.849,76.8,0.5865037826229864,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,6.4,0.722,88.3,0.15824938885676165,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,4.07,1.0,74.2,0.2729013443160597,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,12.55,0.763,78.2,0.28505196654994536,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 2,10.05,0.526,92.7,0.2388919197192585,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,15.07,1.0,94.7,0.6088662867599018,✅ SHORTLIST
+Data Scientist,Female,European,High School,Tier 1 (Top),10.62,0.401,73.3,0.11866622920427534,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,5.43,0.7,88.2,0.18832335478821322,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,7.87,0.887,82.2,0.1893344637103275,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,5.22,0.762,70.1,0.09876912490194839,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),12.16,0.838,75.0,0.653099994303703,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 3,5.66,0.523,90.1,0.12130107600565183,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,2.45,0.353,80.1,0.05987351736724423,❌ REJECT
+Data Scientist,Female,European,High School,Tier 1 (Top),10.73,0.928,66.3,0.2333514232954977,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,5.99,0.753,89.7,0.2016221423176108,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,5.07,0.868,86.0,0.16266852877978039,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,11.95,1.0,98.0,0.5503271483374594,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,29.53,1.0,98.0,0.8926312736108214,✅ SHORTLIST
+Data Scientist,Female,European,Master,Tier 3,3.27,0.972,77.1,0.34313291168293064,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 2,12.92,1.0,93.3,0.8173354358631684,✅ SHORTLIST
+Data Scientist,Female,Other,High School,Tier 3,17.03,1.0,71.9,0.2540569903655946,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,17.17,1.0,85.4,0.565599672956587,✅ SHORTLIST
+Data Scientist,Female,European,Master,Unknown,16.99,0.78,67.5,0.15756722350118432,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,12.01,0.601,56.1,0.08221888820746065,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,2.16,0.455,57.3,0.0409674010394378,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,3.8,0.31,66.8,0.04441647180553922,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,19.48,0.995,98.0,0.7781130054059203,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,2.0,0.692,86.5,0.15318861913874746,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,4.9,0.715,57.9,0.045996402536630406,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,4.75,0.689,72.4,0.17985750253781546,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,5.71,0.493,78.9,0.06391658870142518,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,2.61,0.588,86.7,0.09777026082161389,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,6.48,1.0,74.3,0.5905049383276701,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,11.22,0.783,94.6,0.21407139529094593,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 1 (Top),7.23,0.704,77.3,0.10550257470936535,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,10.89,1.0,59.1,0.20094198388106574,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,7.04,0.756,93.2,0.18890284319089312,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,8.03,1.0,93.1,0.7921313761650189,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,3.23,0.365,54.0,0.026836015708326947,❌ REJECT
+Data Scientist,Female,American,Master,Tier 1 (Top),19.54,0.894,79.8,0.7468480538666781,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),26.39,1.0,84.5,0.8619065516805264,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),14.2,0.981,98.0,0.7982934096610005,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,7.29,0.671,81.9,0.1379901991045522,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),8.3,0.44,72.8,0.4946294779004908,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,13.13,0.9,84.4,0.6054864187350029,✅ SHORTLIST
+Data Scientist,Female,American,PhD,Tier 3,9.18,1.0,75.9,0.3558813026074981,❌ REJECT
+Data Scientist,Female,American,High School,Tier 1 (Top),7.54,0.578,93.5,0.07414330142829502,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,11.52,0.719,63.9,0.13724385987958831,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,18.14,0.741,69.3,0.09386487375645296,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,11.72,0.95,70.0,0.34702726257892236,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,2.97,0.839,79.2,0.5090018076475441,✅ SHORTLIST
+Data Scientist,Female,Indian,PhD,Tier 1 (Top),14.31,1.0,59.6,0.31438683502812503,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,5.41,0.598,85.0,0.09288229399235197,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,10.6,0.668,68.2,0.17760920240590783,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,8.38,1.0,74.8,0.20175744786249294,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),2.0,0.635,77.7,0.09128928423225759,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 3,7.42,0.886,97.8,0.3359342941597181,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),15.66,0.684,94.8,0.43273577294181464,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,10.93,0.962,88.9,0.6576604698601582,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 2,3.12,0.396,66.6,0.03442913060785641,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,13.81,0.819,77.0,0.3930499326703886,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,3.57,0.639,63.5,0.07609657132251085,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,4.98,0.915,80.6,0.19484724791464209,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,4.45,0.508,83.9,0.0736914664294476,❌ REJECT
+Data Scientist,Female,Other,High School,Tier 1 (Top),5.18,0.368,96.6,0.11028879732318994,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 3,2.22,0.851,80.6,0.18981905922958933,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,6.3,0.811,63.3,0.17267559167530058,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.81,0.979,98.0,0.39536312484666164,❌ REJECT
+Data Scientist,Female,European,Master,Unknown,7.08,0.571,62.3,0.10173601598495012,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,4.07,0.337,87.4,0.08008962657795449,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,4.04,0.344,57.1,0.05370114419155846,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,2.17,1.0,98.0,0.28346727098947794,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,5.21,0.581,57.0,0.026350148086062525,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,8.93,0.91,93.4,0.7549354339516857,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,10.78,1.0,98.0,0.668692796220516,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,10.45,1.0,67.8,0.22504665877241334,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,4.71,0.869,68.1,0.19699969453496113,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,9.27,0.96,95.1,0.7160399447603755,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 2,4.2,0.284,67.5,0.03451355193965426,❌ REJECT
+Data Scientist,Female,Indian,High School,Unknown,3.0,0.82,98.0,0.21709350660801965,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,17.81,0.948,98.0,0.8313159400420045,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,3.43,0.586,75.5,0.06696230046452761,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,10.47,0.629,67.3,0.10669888877290261,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,10.24,0.911,64.9,0.3094534463340914,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,25.37,1.0,87.4,0.6641781229988278,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,11.18,0.453,76.2,0.07732358583187061,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,12.75,1.0,94.0,0.8057729883079086,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),6.82,0.944,77.5,0.2153542394739822,❌ REJECT
+Data Scientist,Female,American,High School,Tier 3,12.88,0.736,79.9,0.5901069316646889,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,8.43,0.954,98.0,0.7165385463891528,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,6.69,0.769,84.3,0.2188512081729252,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,11.21,0.718,88.9,0.2756830956466433,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,13.54,1.0,76.6,0.7826807870950835,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,4.37,0.935,67.0,0.1363067943380281,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,7.54,0.875,72.8,0.23500915883836598,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,15.46,0.944,98.0,0.5887955288499366,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.06,0.235,84.8,0.04634207211401376,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),6.53,0.949,90.5,0.38856427503381263,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,6.07,0.916,75.8,0.26406705202035996,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,11.91,1.0,86.5,0.6848074360504823,✅ SHORTLIST
+Data Scientist,Female,African,Master,Tier 1 (Top),24.69,1.0,79.8,0.8028956550026982,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,25.49,0.674,91.4,0.38185478006997015,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,15.41,0.614,82.9,0.13784818967458684,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,2.0,0.356,86.3,0.08400561121066398,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,11.59,0.862,82.6,0.2747467375786838,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 3,7.6,1.0,68.6,0.15683616350779503,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 2,3.96,0.456,74.9,0.029117883673429327,❌ REJECT
+Data Scientist,Female,Indian,Master,Unknown,29.98,1.0,98.0,0.8205359064904159,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),12.11,0.786,72.3,0.5229337742480892,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),3.5,0.37,87.2,0.4600639324667727,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),5.33,0.782,78.5,0.1714187333515101,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),21.18,1.0,66.6,0.7483574258210473,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 3,6.68,0.943,64.7,0.13895844972845905,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,5.42,0.662,78.7,0.20390579962335625,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 3,12.54,1.0,84.5,0.784043065309965,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,9.18,1.0,71.4,0.2621743318562119,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,12.85,1.0,90.6,0.45215464354084084,❌ REJECT
+Data Scientist,Female,American,Master,Tier 1 (Top),5.32,0.707,68.8,0.1555478963891373,❌ REJECT
+Data Scientist,Female,African,Master,Tier 2,8.57,0.499,78.0,0.12841343555892593,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,4.31,0.421,89.9,0.082952922960235,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 1 (Top),7.43,0.709,87.5,0.17408404891244342,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,8.68,0.845,85.4,0.3123117865642656,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),5.62,0.902,77.0,0.21983834171017302,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,4.38,0.808,84.4,0.1977927298029234,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,14.35,0.975,80.8,0.4579672692371903,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,11.49,1.0,64.2,0.14572030462995308,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 1 (Top),27.4,0.893,72.3,0.7532222425242499,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,5.13,0.8,77.7,0.12602358986032247,❌ REJECT
+Data Scientist,Female,European,High School,Tier 1 (Top),14.89,1.0,98.0,0.8096350045122276,✅ SHORTLIST
+Data Scientist,Female,Other,High School,Tier 2,9.63,0.677,84.5,0.27206169469241565,❌ REJECT
+Data Scientist,Female,American,PhD,Tier 3,10.03,0.89,98.0,0.28373688066891367,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 1 (Top),11.68,1.0,90.2,0.5939917049768244,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,30.0,0.888,61.5,0.7223716958464731,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,10.2,0.745,85.6,0.24105082544085435,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 2,4.44,0.875,91.0,0.23734607346926712,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,4.49,0.601,81.3,0.44894920659094467,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,11.0,1.0,94.1,0.4725896935660963,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,4.6,1.0,63.8,0.16764722239876576,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.95,1.0,92.4,0.8113332322321771,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,9.82,1.0,67.9,0.5021002064320359,✅ SHORTLIST
+Data Scientist,Female,Indian,PhD,Tier 2,12.96,1.0,95.5,0.6377807798094645,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,3.78,0.877,96.4,0.17504125742202994,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,7.06,0.706,47.6,0.11325953931959624,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),8.1,0.885,74.9,0.2370184682458775,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),10.93,0.993,86.6,0.8272968466143648,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 3,3.3,0.845,75.4,0.11476543985660395,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,2.25,0.689,94.5,0.6358409180438193,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 1 (Top),8.09,1.0,90.3,0.2742996477979217,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,4.82,0.906,81.6,0.17613667764257523,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,9.0,0.543,89.1,0.08120805137556227,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,9.91,1.0,77.4,0.2307982461477957,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.67,0.73,69.6,0.5226483944078388,✅ SHORTLIST
+Data Scientist,Female,American,High School,Tier 2,15.46,0.881,81.8,0.28097168346915036,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),16.93,1.0,64.9,0.6879409819605979,✅ SHORTLIST
+Data Scientist,Female,Asian (other),High School,Tier 3,2.0,0.572,88.1,0.15699895454959778,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,11.18,0.952,78.1,0.28268965316436734,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,8.28,0.808,98.0,0.7365858463334358,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 1 (Top),14.55,1.0,98.0,0.5554706060676549,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,6.13,0.848,83.4,0.22696790960838117,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,4.69,0.806,88.7,0.2044259937380908,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 2,16.1,0.828,76.8,0.729647291149503,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,14.02,0.626,83.0,0.47460491526722537,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 3,10.3,0.826,69.9,0.1059155887885086,❌ REJECT
+Data Scientist,Female,Other,High School,Tier 2,6.31,0.869,82.7,0.25556176994954105,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,7.51,0.408,67.4,0.023956298059083735,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 2,7.86,0.446,67.4,0.023730501450880088,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 2,17.38,0.871,88.6,0.6379917487096908,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 2,23.75,0.935,84.9,0.6657245834741079,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 2,13.09,0.698,80.3,0.5957539944708823,✅ SHORTLIST
+Data Scientist,Female,African,Master,Tier 2,22.42,1.0,87.0,0.7986534062347905,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 3,3.86,0.841,70.2,0.49870029421087847,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,13.95,1.0,57.7,0.18125248628384635,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,7.29,1.0,95.2,0.3795802288707682,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,6.12,0.861,86.8,0.628164093799161,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,9.25,0.686,86.7,0.13453432510911847,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,12.27,0.634,56.2,0.03871716595842558,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 1 (Top),20.24,0.855,66.0,0.3451912727752729,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,10.87,1.0,74.1,0.39439809350691396,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Unknown,12.67,1.0,80.4,0.30115070210767203,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,4.29,0.311,66.9,0.0887139366571759,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,10.52,0.694,75.2,0.11139965970542523,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),7.58,0.82,76.1,0.27043967404435537,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,7.82,1.0,98.0,0.740029385437344,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,9.51,1.0,86.9,0.43562793178246834,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,10.76,0.626,86.9,0.24273431264144538,❌ REJECT
+Data Scientist,Female,American,High School,Tier 3,20.34,0.735,77.5,0.21457955168048112,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,7.55,0.977,92.8,0.3578887605722225,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,6.08,1.0,98.0,0.8006916129485404,✅ SHORTLIST
+Data Scientist,Female,Other,Bachelor,Tier 2,18.39,0.608,79.4,0.37257256383742887,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,8.01,0.58,73.3,0.07654810288355991,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.04,1.0,91.4,0.7071285591046857,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 3,7.76,0.876,79.9,0.28390983174530715,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 2,2.19,0.581,89.4,0.11561450090077482,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,5.54,0.765,95.1,0.2632393711205624,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 2,3.34,0.834,81.5,0.1632148532548513,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 1 (Top),13.47,0.615,83.5,0.46162057915759896,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,11.89,0.793,60.2,0.1190989528697376,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,5.11,0.843,70.1,0.5605197103703031,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Unknown,5.22,0.834,98.0,0.15950313323332618,❌ REJECT
+Data Scientist,Female,Other,High School,Tier 2,13.78,0.468,81.0,0.10969221878401088,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,7.42,0.861,66.3,0.24512437562371253,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,7.3,0.513,79.1,0.04255953247025012,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,9.14,0.881,88.9,0.31184839981919105,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,8.15,0.945,98.0,0.6895106175569821,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,3.42,0.97,84.1,0.28805120156570524,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,21.09,0.897,82.8,0.7410871359052629,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,15.09,1.0,86.2,0.6377231005043932,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 1 (Top),5.58,0.812,88.1,0.22093644236895782,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,11.59,1.0,75.1,0.29634094636018465,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),18.56,0.709,76.9,0.3110004937485226,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,4.24,0.819,98.0,0.4458391475839587,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),17.15,0.82,74.1,0.3579556146467766,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,3.07,0.85,81.1,0.1988750502705093,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,5.69,0.638,63.3,0.053343005604612144,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,19.59,0.669,87.9,0.32368519428466963,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,7.71,0.785,75.0,0.1214027858153782,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),10.55,1.0,74.4,0.6345109205980068,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 1 (Top),11.22,1.0,75.3,0.3693959197748677,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 1 (Top),10.62,1.0,98.0,0.6008788037642131,✅ SHORTLIST
+Data Scientist,Female,American,Master,Unknown,21.02,1.0,98.0,0.5349529192199403,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,11.6,0.91,98.0,0.5839960224841397,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Unknown,12.28,0.71,98.0,0.21376649101784362,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,4.95,0.619,91.1,0.11668687008131325,❌ REJECT
+Data Scientist,Female,American,High School,Tier 3,4.68,0.646,94.0,0.1852812689498424,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,6.07,0.871,98.0,0.31534434147837315,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 2,4.4,0.954,94.0,0.6663391876526228,✅ SHORTLIST
+Data Scientist,Female,African,Master,Tier 2,19.31,0.641,62.5,0.13417398114756776,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 3,20.64,1.0,95.8,0.6218253037783723,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Unknown,3.87,0.922,51.4,0.10349666385592773,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 3,5.3,0.594,98.0,0.19330282903424326,❌ REJECT
+Data Scientist,Female,European,PhD,Tier 1 (Top),8.05,0.832,93.4,0.2796543175670792,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,11.02,1.0,84.4,0.39607054995840607,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),16.48,1.0,97.9,0.843756487202556,✅ SHORTLIST
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),11.82,0.576,86.9,0.11059311237145104,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.71,1.0,84.0,0.24432933316999456,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 2,13.59,0.776,65.4,0.11000404402109626,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,9.57,1.0,87.4,0.414353113202867,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 1 (Top),7.18,0.521,64.3,0.06152658707319859,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,6.48,1.0,75.9,0.21132224549709785,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 1 (Top),6.09,0.949,98.0,0.4863926626515508,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 3,4.74,0.759,98.0,0.2618848231456142,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 2,8.7,0.531,72.9,0.11582394981834705,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),8.27,1.0,94.0,0.40424369457994563,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,5.18,0.962,88.9,0.19228122575713907,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.89,0.985,92.0,0.4703940017606302,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,22.79,1.0,96.4,0.6383487426342404,✅ SHORTLIST
+Data Scientist,Female,European,High School,Tier 2,5.93,0.865,66.5,0.12831971059820593,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,8.89,0.802,84.9,0.46102905044668546,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,3.58,0.508,95.8,0.2056587911435953,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 2,26.27,0.832,98.0,0.8325038938570972,✅ SHORTLIST
+Data Scientist,Female,European,Master,Tier 2,15.13,0.635,97.9,0.35643017480986094,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,19.32,0.546,79.0,0.16777904686738826,❌ REJECT
+Data Scientist,Female,Other,PhD,Tier 1 (Top),5.67,0.935,61.3,0.17291734678914497,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,6.77,0.669,68.8,0.1686974897478805,❌ REJECT
+Data Scientist,Female,European,Master,Tier 2,6.16,0.694,80.4,0.13258241183944972,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 2,5.6,0.692,57.6,0.1167114243397159,❌ REJECT
+Data Scientist,Female,Asian (other),High School,Tier 1 (Top),7.26,0.923,64.8,0.1627380632988718,❌ REJECT
+Data Scientist,Female,African,Bachelor,Tier 1 (Top),5.59,0.467,79.3,0.04005276055319271,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 1 (Top),12.39,0.827,77.9,0.5347568218456702,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),6.8,0.413,59.8,0.04181548944200179,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 3,7.64,1.0,88.1,0.6203746853231843,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,2.71,0.601,85.9,0.11973274800086725,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,7.01,0.471,67.5,0.18227878738550124,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,2.0,0.764,79.3,0.12083611322783282,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,4.73,0.393,89.6,0.18479469425492517,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 2,6.08,0.963,79.1,0.3112266771122649,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,9.29,0.709,68.9,0.551291273605945,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,12.22,0.728,79.7,0.32039333388323676,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 1 (Top),10.07,1.0,91.4,0.5621072814951473,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 1 (Top),4.57,0.692,78.6,0.6209357933648868,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),15.78,0.977,93.8,0.7981893194471938,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 1 (Top),7.67,0.454,77.8,0.185014047491817,❌ REJECT
+Data Scientist,Female,Indian,Master,Unknown,7.19,0.763,85.6,0.2056384374232865,❌ REJECT
+Data Scientist,Female,Asian (other),PhD,Tier 2,16.47,0.899,91.6,0.6826595346303229,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,21.23,1.0,91.7,0.8625792309105564,✅ SHORTLIST
+Data Scientist,Female,Indian,PhD,Tier 2,9.54,1.0,89.2,0.5815342079148536,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Master,Tier 1 (Top),8.55,1.0,78.4,0.6937004791228919,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Unknown,11.61,0.81,79.9,0.20445071538754764,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,19.58,0.86,98.0,0.3879532344672074,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,5.2,0.884,90.0,0.6233468556615062,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 3,10.46,1.0,76.9,0.6371831169837733,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 2,10.05,0.62,85.4,0.17342523875638338,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 3,10.24,0.878,72.5,0.6589248506062023,✅ SHORTLIST
+Data Scientist,Female,European,Master,Tier 2,17.84,0.912,64.7,0.2831336195108485,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.79,0.696,94.0,0.20492254396913304,❌ REJECT
+Data Scientist,Female,Asian (other),PhD,Tier 3,4.0,1.0,80.9,0.39315879021498373,❌ REJECT
+Data Scientist,Female,European,High School,Tier 3,8.02,0.814,85.7,0.5552028608156805,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,6.08,0.754,92.7,0.4740574499876389,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,10.67,0.889,70.6,0.24432715404389987,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 1 (Top),7.97,0.433,64.2,0.1029271738253179,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,11.4,1.0,73.5,0.23773860342970263,❌ REJECT
+Data Scientist,Female,African,Master,Unknown,8.8,0.818,79.9,0.24326891010096993,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,22.78,0.812,84.3,0.45347500365607146,❌ REJECT
+Data Scientist,Female,Indian,PhD,Tier 3,8.29,0.91,69.9,0.19346409462040878,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),11.05,1.0,90.5,0.7925282305472063,✅ SHORTLIST
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,11.21,1.0,68.7,0.17392776758648565,❌ REJECT
+Data Scientist,Female,Other,PhD,Tier 2,18.16,0.662,75.5,0.25759590178539016,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,14.53,1.0,96.4,0.8193706933620182,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,10.89,1.0,98.0,0.6792951654368932,✅ SHORTLIST
+Data Scientist,Female,European,Bachelor,Tier 2,4.25,0.704,88.0,0.24150890449219767,❌ REJECT
+Data Scientist,Female,Indian,Master,Tier 3,11.02,0.928,95.7,0.44179878244136483,❌ REJECT
+Data Scientist,Female,Indian,High School,Unknown,13.51,0.413,82.7,0.23902421810305458,❌ REJECT
+Data Scientist,Female,American,Master,Unknown,6.0,1.0,98.0,0.2949370602308709,❌ REJECT
+Data Scientist,Female,Other,Bachelor,Tier 1 (Top),12.76,0.47,79.1,0.08762996013581248,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,12.04,0.905,98.0,0.7471424019708387,✅ SHORTLIST
+Data Scientist,Female,African,Bachelor,Tier 3,11.27,0.774,69.0,0.1919018678708586,❌ REJECT
+Data Scientist,Female,European,Bachelor,Tier 3,3.32,0.637,70.6,0.06207221884888406,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,18.76,1.0,93.2,0.7691054775613057,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,8.41,0.535,83.8,0.10005813839047088,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,11.49,1.0,98.0,0.5576096694306714,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 2,14.39,0.924,82.3,0.3829469175433985,❌ REJECT
+Data Scientist,Female,Asian (other),Master,Tier 3,27.24,1.0,90.3,0.869739653830744,✅ SHORTLIST
+Data Scientist,Female,American,Master,Tier 1 (Top),10.28,1.0,79.5,0.5170208576621275,✅ SHORTLIST
+Data Scientist,Female,American,Bachelor,Tier 3,25.82,0.661,52.1,0.6479768256441498,✅ SHORTLIST
+Data Scientist,Female,Other,Bachelor,Tier 2,3.41,0.556,79.8,0.03382113257259414,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 2,14.88,0.695,93.1,0.6937208872338226,✅ SHORTLIST
+Data Scientist,Female,Indian,High School,Tier 1 (Top),11.7,0.76,77.8,0.16122012175299838,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 1 (Top),10.71,1.0,89.3,0.48681784594494154,❌ REJECT
+Data Scientist,Female,American,Master,Tier 2,16.17,0.677,81.1,0.6790873966882015,✅ SHORTLIST
+Data Scientist,Female,Indian,Bachelor,Tier 3,9.85,0.806,84.9,0.2691933206712195,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 3,10.52,0.256,82.0,0.08734905413697062,❌ REJECT
+Data Scientist,Female,European,Master,Tier 1 (Top),2.0,0.61,81.2,0.15986916313331215,❌ REJECT
+Data Scientist,Female,American,High School,Tier 2,2.53,0.69,98.0,0.19759604804230946,❌ REJECT
+Data Scientist,Female,Asian (other),Bachelor,Tier 3,7.03,0.716,82.2,0.10077818580428638,❌ REJECT
+Data Scientist,Female,Indian,High School,Tier 3,7.74,0.45,64.3,0.07634484149864637,❌ REJECT
+Data Scientist,Female,American,Bachelor,Tier 2,6.22,0.687,85.8,0.14094893493706848,❌ REJECT
+Data Scientist,Female,Other,Master,Tier 3,12.25,0.726,59.2,0.04844288504194993,❌ REJECT
+Data Scientist,Female,American,Master,Tier 3,3.19,0.784,76.0,0.16497930625436413,❌ REJECT
+Data Scientist,Female,European,Master,Tier 3,9.29,0.796,75.1,0.60376116320907,✅ SHORTLIST
+Data Scientist,Female,Indian,Master,Tier 3,4.64,1.0,85.1,0.33904403252329196,❌ REJECT
+Data Scientist,Female,Indian,Bachelor,Tier 2,14.39,0.802,86.2,0.3761125380035813,❌ REJECT
