@@ -99,6 +99,7 @@ def load_assets():
     model    = pickle.load(open('outputs/hiring_model.pkl', 'rb'))
     encoders = pickle.load(open('outputs/encoders.pkl', 'rb'))
     df_raw   = pd.read_csv('synthetic_hiring_data.csv')
+    candidate_ids = df_raw['candidate_id'].copy() if 'candidate_id' in df_raw.columns else None
     df_raw   = df_raw.drop(columns=['candidate_id', 'age_group'], errors='ignore').fillna(0)
 
     df_encoded = df_raw.copy()
@@ -110,8 +111,10 @@ def load_assets():
     probs        = model.predict_proba(df_encoded[feature_cols])[:, 1]
 
     df_display = df_raw.copy()
+    if candidate_ids is not None:
+        df_display.insert(0, 'candidate_id', candidate_ids)
     df_display['Hiring Probability'] = probs
-    df_display['Decision'] = ["✅ SHORTLIST" if p > 0.5 else "❌ REJECT" for p in probs]
+    df_display['Decision'] = ["SHORTLIST" if p > 0.5 else "REJECT" for p in probs]
 
     return model, encoders, df_display, df_encoded, feature_cols
 
@@ -122,7 +125,7 @@ def get_explainer(_model):
     return shap.TreeExplainer(_model)
 
 explainer      = get_explainer(model)
-BIAS_THRESHOLD = 0.15
+BIAS_THRESHOLD = 0.30  # 30% gap in selection rates triggers bias alert (Demographic Parity metric)
 
 
 # ─────────────────────────────────────────────────────────
@@ -172,7 +175,7 @@ if 'filtered_df' not in st.session_state:
 filtered_df = st.session_state['filtered_df']
 
 display_cols = [
-    'job_role_applied', 'gender', 'nationality', 'education_level',
+    'candidate_id', 'job_role_applied', 'gender', 'nationality', 'education_level',
     'university_tier', 'relevant_experience_years',
     'skill_match_score', 'interview_score', 'Hiring Probability', 'Decision'
 ]
@@ -928,7 +931,7 @@ elif active_page == "HR Report":
             </div>""", unsafe_allow_html=True)
 
         st.markdown("<br>", unsafe_allow_html=True)
-        report_csv = filtered_df[display_cols].to_csv(index=False).encode('utf-8')
+        report_csv = filtered_df[display_cols].to_csv(index=False).encode('utf-8-sig')
         st.download_button("Download Full HR Report (CSV)", data=report_csv,
                            file_name="hr_full_report.csv", mime="text/csv")
 
