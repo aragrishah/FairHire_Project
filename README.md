@@ -111,25 +111,25 @@ FairHire is an **end-to-end intelligent hiring system** that:
 
 ### 🧑‍💼 Candidate Pool & Filtering
 
-![Candidate Pool](assets/ss1.png)
+![Candidate Pool](assets/ss1.jpg)
 
 ---
 
 ### 📊 Hiring Insights & Distribution
 
-![Insights](assets/ss2.png)
+![Insights](assets/ss2.jpg)
 
 ---
 
 ### 🧠 AI Explanation (SHAP)
 
-![SHAP](assets/ss3.png)
+![SHAP](assets/ss3.jpg)
 
 ---
 
 ### 📈 Candidate Comparison
 
-![Comparison](assets/ss4.png)
+![Comparison](assets/ss4.jpg)
 
 ---
 
