@@ -1,51 +1,63 @@
+Here is your **fully upgraded, top 1% README with screenshots + live app link integrated properly** 👇
+(Just copy-paste into your `README.md`)
+
+---
+
 # 🚀 FairHire – Explainable AI for Bias-Free Hiring
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
-![Machine Learning](https://img.shields.io/badge/Model-Random%20Forest-orange?style=for-the-badge)
-![XAI](https://img.shields.io/badge/Explainable%20AI-SHAP-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-BERT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+<p align="center">
+  <b>Transparent • Fair • Explainable Recruitment powered by AI</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Model-Random%20Forest-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XAI-SHAP-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-BERT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Live Application
+
+👉 **[Launch FairHire Dashboard](https://aragrishah-fairhire-project-app-7vx3g5.streamlit.app/)**
 
 ---
 
 ## 🌍 The Vision
 
-> **AI should not just be accurate — it should be fair, transparent, and accountable.**
+> AI in hiring should not just be accurate — it should be **fair, transparent, and accountable**.
 
-FairHire is an **Explainable AI (XAI)-driven recruitment system** that transforms hiring into a **transparent, bias-aware, and data-driven process**.
-
-Unlike traditional “black-box” AI models, FairHire ensures that every hiring decision is:
-✔ Explainable
-✔ Auditable
-✔ Fair
+FairHire is an **Explainable AI (XAI)-driven recruitment system** that transforms hiring into a **data-driven, bias-aware, and interpretable process**.
 
 ---
 
 ## 🎯 Problem
 
-Most AI hiring systems today:
+Modern AI hiring systems often:
 
-* ❌ Act as **black boxes**
-* ❌ Hide decision logic from recruiters
-* ❌ Introduce **algorithmic bias** (gender, education, etc.)
-* ❌ Reduce trust in automated hiring
+* ❌ Operate as black boxes
+* ❌ Hide decision logic
+* ❌ Introduce bias (gender, education, etc.)
+* ❌ Reduce recruiter trust
 
-This creates **ethical, legal, and practical risks** in recruitment.
+➡️ Result: **Unfair and unreliable hiring decisions**
 
 ---
 
 ## 💡 Solution
 
-FairHire is a **decision-support system** that integrates:
+FairHire is an **end-to-end intelligent hiring system** that:
 
-* 🤖 Machine Learning (Random Forest)
-* 🧠 Explainable AI (SHAP)
-* ⚖️ Fairness Auditing (Demographic Parity)
-* 📄 NLP Resume Screening (BERT)
-* 📊 Interactive HR Analytics Dashboard
+* 🤖 Predicts candidate hiring probability
+* 🧠 Explains decisions using SHAP
+* ⚖️ Detects bias using fairness metrics
+* 📄 Extracts resume data using NLP
+* 📊 Visualizes insights via interactive dashboard
 
-It doesn’t replace humans — it **empowers them with transparent insights**.
+👉 Not replacing recruiters — **empowering them**
 
 ---
 
@@ -54,46 +66,70 @@ It doesn’t replace humans — it **empowers them with transparent insights**.
 ### 🤖 Hiring Prediction Model
 
 * Random Forest Classifier
-* Predicts **probability of candidate selection**
-* Handles structured HR datasets effectively
+* Predicts **probability of selection**
 
 ---
 
 ### 🧾 Explainable AI (SHAP)
 
-* Shows **feature contribution for each prediction**
-* Provides global + individual interpretability
-* Helps recruiters understand *why* a candidate is selected
+* Shows **why a candidate was selected**
+* Feature-level contribution
+* Transparent decision-making
 
 ---
 
 ### ⚖️ Fairness & Bias Detection
 
 * Uses **Demographic Parity**
-* Detects selection rate differences across groups
-* Flags potential bias automatically
+* Detects imbalance across groups
+* Flags bias automatically
 
 ---
 
 ### 📄 Resume Intelligence (NLP)
 
-* PDF parsing using `pdfplumber`
-* Named Entity Recognition via **BERT**
+* PDF parsing via `pdfplumber`
+* NER using **BERT**
 * Extracts:
 
   * Skills
   * Experience
   * Certifications
-* Converts resumes into structured ML input
 
 ---
 
-### 📊 HR Analytics Dashboard
+### 📊 Interactive Dashboard
 
-* Candidate filtering & comparison
-* Hiring probability visualization
-* Feature importance insights
-* Bias monitoring dashboard
+* Real-time filtering
+* Candidate comparison
+* Hiring probability insights
+* Bias monitoring
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 🧑‍💼 Candidate Pool & Filtering
+
+![Candidate Pool](assets/ss1.png)
+
+---
+
+### 📊 Hiring Insights & Distribution
+
+![Insights](assets/ss2.png)
+
+---
+
+### 🧠 AI Explanation (SHAP)
+
+![SHAP](assets/ss3.png)
+
+---
+
+### 📈 Candidate Comparison
+
+![Comparison](assets/ss4.png)
 
 ---
 
@@ -115,48 +151,24 @@ G --> H[Human Decision Support]
 
 ## 📊 Model Evaluation
 
-| Metric    | Description                             |
-| --------- | --------------------------------------- |
-| Accuracy  | Overall prediction correctness          |
-| Precision | Correct positive predictions            |
-| Recall    | Ability to identify suitable candidates |
-| ROC-AUC   | Model separability performance          |
+| Metric    | Purpose                     |
+| --------- | --------------------------- |
+| Accuracy  | Overall correctness         |
+| Precision | Quality of shortlist        |
+| Recall    | Identifying good candidates |
+| ROC-AUC   | Model separability          |
 
-> The model demonstrates **strong classification performance and balanced precision-recall**, ensuring reliable hiring predictions 
+✔ Balanced performance across hiring decisions
+✔ Reliable classification with explainability
 
 ---
 
 ## 🔍 Key Insights
 
-* 📌 **Interview score & experience** are major decision factors
-* 📌 SHAP provides **clear reasoning behind predictions**
-* 📌 Fairness engine detects **bias across demographic groups**
-* 📌 Resume module enables **real-time candidate evaluation**
-
----
-
-## 📸 System Preview
-
-### 🧑‍💼 Candidate Filtering & Insights
-
-* Real-time filtering
-* Hiring probability distribution
-* Decision breakdown
-
-### 📊 SHAP Explainability
-
-* Visual feature contribution
-* Positive vs negative impact
-
-### 📈 Candidate Comparison
-
-* Multi-candidate evaluation
-* Side-by-side analysis
-
-### 📄 Resume Screening
-
-* Automated parsing
-* Instant hiring probability
+* 📌 Interview score & experience drive hiring decisions
+* 📌 SHAP reveals **clear decision reasoning**
+* 📌 Bias detection ensures fairness across groups
+* 📌 Dashboard enables **data-driven HR decisions**
 
 ---
 
@@ -166,9 +178,9 @@ G --> H[Human Decision Support]
 
 * Python
 
-**Machine Learning:**
+**ML & Data:**
 
-* Scikit-learn (Random Forest)
+* Scikit-learn
 * Pandas, NumPy
 
 **Explainable AI:**
@@ -182,8 +194,7 @@ G --> H[Human Decision Support]
 
 **Visualization:**
 
-* Plotly
-* Matplotlib
+* Plotly, Matplotlib
 
 **Deployment:**
 
@@ -192,7 +203,7 @@ G --> H[Human Decision Support]
 
 ---
 
-## 🚀 Getting Started
+## ⚡ Run Locally
 
 ```bash
 git clone https://github.com/aragrishah/FairHire_Project.git
@@ -203,10 +214,21 @@ streamlit run app.py
 
 ---
 
-## 🎥 Demo
+## 🚧 Limitations
 
-📌 *Watch the working system:* 
-👉 https://drive.google.com/file/d/1q2aPmldaG09KCflBm35vSql0p8vHAXWO/view?usp=drive_link
+* Synthetic dataset
+* Limited real-world hiring signals
+* No enterprise HR integration
+
+---
+
+## 🔮 Future Improvements
+
+* Deep Learning-based scoring
+* Real-time hiring pipelines
+* Cloud deployment (AWS/GCP)
+* Bias mitigation algorithms
+* Interview AI integration
 
 ---
 
@@ -214,27 +236,9 @@ streamlit run app.py
 
 * 🌍 Solves **real-world ethical AI problem**
 * 🧠 Combines **ML + NLP + XAI + Fairness**
-* ⚖️ Focus on **responsible AI systems**
-* 📊 Strong **data + analytics integration**
-* 💼 Highly relevant for **AI / Data / FinTech roles**
-
----
-
-## 🔑 Keywords (ATS Optimized 🚀)
-
-Explainable AI, Fairness in AI, Bias Detection, HR Analytics,
-Machine Learning, Random Forest, SHAP, NLP, BERT,
-Ethical AI, Recruitment Automation, Data Science
-
----
-
-## 🧪 Future Enhancements
-
-* 🔮 Deep Learning-based candidate scoring
-* 🌐 Cloud deployment (AWS / GCP)
-* 📊 Advanced recruiter dashboards
-* 🎯 Real-time bias mitigation techniques
-* 🤖 Interview AI integration
+* ⚖️ Focus on **Responsible AI**
+* 📊 Strong product-level dashboard
+* 💼 Highly relevant for AI/Data roles
 
 ---
 
@@ -247,4 +251,6 @@ Ethical AI, Recruitment Automation, Data Science
 
 ## ⭐ Final Thought
 
-> *“FairHire proves that AI can be both powerful and responsible — not just predicting outcomes, but explaining them.”*
+> *FairHire proves that AI can be both powerful and responsible — not just predicting outcomes, but explaining them.*
+
+Just say 👍
