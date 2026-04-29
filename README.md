@@ -1,8 +1,3 @@
-Here is your **fully upgraded, top 1% README with screenshots + live app link integrated properly** 👇
-(Just copy-paste into your `README.md`)
-
----
-
 # 🚀 FairHire – Explainable AI for Bias-Free Hiring
 
 <p align="center">
@@ -252,5 +247,3 @@ streamlit run app.py
 ## ⭐ Final Thought
 
 > *FairHire proves that AI can be both powerful and responsible — not just predicting outcomes, but explaining them.*
-
-Just say 👍
